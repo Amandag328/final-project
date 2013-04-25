@@ -1,2 +1,68 @@
-/* CSS Document */
+body {
+	background-image: url(images/background.jpg);
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper {
+	background-color: #D7D8A7;
+	width: 950px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #6C423E;
+	border-right-color: #6C423E;
+	border-bottom-color: #6C423E;
+	border-left-color: #6C423E;
+	border-top-width: 10px;
+	border-right-width: 2px;
+	border-bottom-width: 10px;
+	border-left-width: 2px;
+}
+.navigation {
+	padding: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.navigation li {
+	display: inline;
+}
+.navigation li a {
+	background-color: #D09B78;
+	border: 1px outset #F9E894;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	margin-top: 0px;
+	margin-right: 59px;
+	margin-bottom: 0px;
+	color: #F9E894;
+	text-decoration: none;
+	font-family: "MS Serif", "New York", serif;
+	font-weight: bold;
+	list-style-type: none;
+}
+.content h1 {
+	font-family: "MS Serif", "New York", serif;
+	color: #6C423E;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
 
+.navigation li a:hover {
+	color: #D09B78;
+	border-top-color: #D09B78;
+	border-right-color: #D09B78;
+	border-bottom-color: #D09B78;
+	border-left-color: #D09B78;
+	background-color: #F9E894;
+}
