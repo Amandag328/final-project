@@ -93,12 +93,13 @@ body {
 	background-color: #f9e894;
 	margin-right: 100px;
 	color: #6c423e;
-	border: 1px inset #6c423e;
+	border: 2px outset #F9E894;
+	font-family: "MS Serif", "New York", serif;
 }
 #nav a:hover{
 	color:#fff;
 	background:#6c423e;
-	text-decoration:underline;
+	text-decoration:none;
 }
 
 /*--- DROPDOWN ---*/
@@ -121,7 +122,7 @@ body {
 }
 #nav li:hover a{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
 	background:#f9e894;
-	text-decoration:underline;
+	text-decoration:none;
 }
 #nav li:hover ul a{ /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
 	text-decoration:none;
