@@ -144,4 +144,14 @@ body {
 	font-family: Tahoma, Geneva, sans-serif;
 	margin: 10px;
 	padding: 20px;
+	text-align: left;
+	vertical-align: top;
+}
+.recipes td {
+	text-align: left;
+	vertical-align: top;
+}
+.nutrition {
+	border: 2px double #6c423e;
+	background-color: #d09b78;
 }
