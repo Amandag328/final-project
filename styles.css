@@ -24,6 +24,11 @@ body {
 	border-left-width: 2px;
 	padding: 10px;
 }
+.main a:hover {
+	color: #f9e894;
+	text-decoration: none;
+}
+
 
 .navigation {
 	padding: 0px;
@@ -147,10 +152,16 @@ body {
 	text-align: left;
 	vertical-align: top;
 }
+.main a {
+	text-decoration: none;
+	color: #6c423e;
+}
+
 .recipes td {
 	text-align: left;
 	vertical-align: top;
 }
+
 .nutrition {
 	border: 2px double #6c423e;
 	background-color: #d09b78;
