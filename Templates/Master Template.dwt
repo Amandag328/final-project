@@ -12,7 +12,7 @@
 	
 	<body>
 		<div class="wrapper">
-			<div class= "banner"><img src="../images/final-banner.jpg" width="950" height="150" alt="Banner" /></div>
+			<img src="../images/final-banner.jpg" width="950" height="150" alt="Banner" />
 			<code>
 			<ul id="nav">
 				<li><a href="#">Home</a></li>
@@ -38,10 +38,11 @@
 				<h1>
 					First Love: Comfort Food
 				</h1>
+				<div class="main">
 				<!-- TemplateBeginEditable name="Content" -->
 				<p>[Content goes here]</p>
 				<!-- TemplateEndEditable -->
-			</div>
+			</div></div>
 			<div class="footer">
 			</div>
 		</div>
