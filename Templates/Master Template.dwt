@@ -15,12 +15,12 @@
 			<img src="../images/final-banner.jpg" width="950" height="150" alt="Banner" />
 			<code>
 			<ul id="nav">
-				<li><a href="#">Home</a></li>
+				<li><a href="../index.html">Home</a></li>
 				<li><a href="#">Main Courses</a>
 					<ul>
-						<li><a href="#">Chicago Pizza</a></li>
-						<li><a href="#">New England Chowder</a></li>
-						<li><a href="#">Texas Chili</a></li>
+						<li><a href="../main-courses/chicago-style-pizza.html">Chicago Pizza</a></li>
+						<li><a href="../main-courses/new-england-chowder.html">New England Chowder</a></li>
+						<li><a href="../main-courses/texas-chili.html">Texas Chili</a></li>
 					</ul>
 				</li>
 				<li><a href="#">Desserts</a>

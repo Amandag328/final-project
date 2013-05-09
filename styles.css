@@ -56,8 +56,11 @@ body {
 	color: #6C423E;
 	font-weight: bold;
 	text-align: left;
-	margin: 0px;
 	padding: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
 }
 
 .navigation li a:hover {
@@ -139,4 +142,5 @@ body {
 	padding: 20px;
 	background-color: #f9e894;
 	border-radius: 15px;
+	font-family: Tahoma, Geneva, sans-serif;
 }
