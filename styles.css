@@ -4,7 +4,7 @@ body {
 	padding: 0px;
 }
 .wrapper {
-	background-color: #D7D8A7;
+	background-color: #ecd4a5;
 	width: 950px;
 	margin-top: 10px;
 	margin-right: auto;
@@ -23,6 +23,7 @@ body {
 	border-bottom-width: 10px;
 	border-left-width: 2px;
 }
+
 .navigation {
 	padding: 0px;
 	margin-top: 20px;
@@ -45,15 +46,15 @@ body {
 	margin-bottom: 0px;
 	color: #F9E894;
 	text-decoration: none;
-	font-family: "MS Serif", "New York", serif;
+	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	list-style-type: none;
 }
 .content h1 {
-	font-family: "MS Serif", "New York", serif;
+	font-family: Tahoma, Geneva, sans-serif;
 	color: #6C423E;
 	font-weight: bold;
-	text-align: center;
+	text-align: left;
 	margin: 0px;
 	padding: 0px;
 }
